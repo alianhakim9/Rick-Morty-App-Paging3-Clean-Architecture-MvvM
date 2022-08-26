@@ -2,6 +2,9 @@
 
 This is an example Android Application implement mvvm with clean architecture, kotlin coroutines, retrofit dan paging 3 library.
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/51102459/186804647-f04777b0-bdc7-4f82-b77d-faada96ae3d6.png)
+
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
